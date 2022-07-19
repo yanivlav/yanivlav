@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Yaniv
 
-Senior Cyber Security Engineer 
+Senior Cyber Security Engineer & Software Developer
 - 👀 I’m interested in software development, cyber security, crypto, data science and machine learning.
 - 🔭 I’m currently working on my BSc in computer science.
 - 🌱 I’m currently learning Android Devlopment, Solidity, React.  
