@@ -7,4 +7,4 @@ Software Developer & Senior Cyber Security Engineer
 - 👯 I’m looking to collaborate on any dapp project.
 - 📫 E-mail: yan465@gmail.com
 - ⬆️ LinkedIn: https://www.linkedin.com/in/yanivlav1/
-- 📝 Languages: javascript, python, java, c#, bash, c, c++.
+- 📝 Languages: javascript, python, java, c#, c, c++, bash, powersell.
