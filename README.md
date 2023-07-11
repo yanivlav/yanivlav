@@ -8,4 +8,4 @@ Software Developer & Senior Cyber Security Engineer
 - 📝 Languages: javascript, python, java, c#, c, c++, node.js
 - 📫 E-mail: yan465@gmail.com
 - ⬆️ LinkedIn: https://www.linkedin.com/in/yanivlav1/
-- :globe_with_meridians: Portfolio: http://yanivlavi.rf.gd/
+
