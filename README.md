@@ -6,6 +6,4 @@ Software Developer & Senior Cyber Security Engineer
 - 🌱 I’m currently learning Android Devlopment, Solidity, React.  
 - 👯 I’m looking to collaborate on any dapp project.
 - 📝 Languages: javascript, python, java, c#, c, c++, node.js
-- 📫 E-mail: yan465@gmail.com
-- ⬆️ LinkedIn: https://www.linkedin.com/in/yanivlav1/
 
